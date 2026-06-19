@@ -1,0 +1,7 @@
+<p align="justify">
+🏋️‍♂️ <b>Fitness Management System</b> is a full-featured relational database solution developed to manage and automate the operations of modern fitness centers and gyms. The system provides an integrated platform for managing members, trainers, workout programs, exercise libraries, diet plans, subscriptions, payments, supplements, fitness goals, and progress records.
+
+Through a structured MySQL database architecture, users can track their fitness journey, monitor body metrics, follow customized training and nutrition plans, and interact with assigned coaches. Trainers can manage client programs efficiently, while administrators can oversee memberships, subscription plans, payment transactions, and overall system performance.
+
+The project demonstrates advanced database design principles, including normalization, entity relationships, referential integrity, cascading actions, constraints, data validation, CRUD operations, reporting, and analytical SQL queries such as JOIN, GROUP BY, ORDER BY, COUNT, SUM, and AVG. It was developed as a major academic project to simulate a real-world Fitness Management Platform with a scalable and maintainable database structure.
+</p>
